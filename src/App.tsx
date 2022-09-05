@@ -1,8 +1,17 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
+import { useSelector } from 'react-redux';
+import { RootState } from './app/store';
 
 function App() {
-  return <h1>Hello, world!</h1>;
+  const phones = useSelector((state: RootState) => state.phones.phones);
+  return (
+    <div>
+      <div>
+        <span>{phones.length}</span>
+      </div>
+    </div>
+  );
 }
 
 export default App;

@@ -3,274 +3,274 @@
     "brand": "Apple",
     "model": "iPhone 13 Pro Max 1 TB",
     "imgUrl": "https://content1.rozetka.com.ua/goods/images/big/221250972.jpg",
-    "screenDiagonal": "6.7",
-    "screenRefreshRate": "120",
-    "memory": "1024",
-    "ram": "6",
-    "price": "69999"
+    "screenDiagonal": 6.7,
+    "screenRefreshRate": 120,
+    "memory": 1024,
+    "ram": 6,
+    "price": 69999
   },
 
   {
     "brand": "Apple",
     "model": "iPhone 13 Pro Max 512 GB",
     "imgUrl": "https://content1.rozetka.com.ua/goods/images/big/221250972.jpg",
-    "screenDiagonal": "6.7",
-    "screenRefreshRate": "120",
-    "memory": "512",
-    "ram": "6",
-    "price": "61999"
+    "screenDiagonal": 6.7,
+    "screenRefreshRate": 120,
+    "memory": 512,
+    "ram": 6,
+    "price": 61999
   },
 
   {
     "brand": "Apple",
     "model": "iPhone 13 Pro Max 256 GB",
     "imgUrl": "https://content1.rozetka.com.ua/goods/images/big/221250972.jpg",
-    "screenDiagonal": "6.7",
-    "screenRefreshRate": "120",
-    "memory": "256",
-    "ram": "6",
-    "price": "53999"
+    "screenDiagonal": 6.7,
+    "screenRefreshRate": 120,
+    "memory": 256,
+    "ram": 6,
+    "price": 53999
   },
 
   {
     "brand": "Apple",
     "model": "iPhone 13 Pro Max 128 GB",
     "imgUrl": "https://content1.rozetka.com.ua/goods/images/big/221250972.jpg",
-    "screenDiagonal": "6.7",
-    "screenRefreshRate": "120",
-    "memory": "128",
-    "ram": "6",
-    "price": "48999"
+    "screenDiagonal": 6.7,
+    "screenRefreshRate": 120,
+    "memory": 128,
+    "ram": 6,
+    "price": 48999
   },
 
   {
     "brand": "Apple",
     "model": "iPhone 13 Pro 1 TB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/221197188.jpg",
-    "screenDiagonal": "6.1",
-    "screenRefreshRate": "120",
-    "memory": "1024",
-    "ram": "6",
-    "price": "65999"
+    "screenDiagonal": 6.1,
+    "screenRefreshRate": 120,
+    "memory": 1024,
+    "ram": 6,
+    "price": 65999
   },
 
   {
     "brand": "Apple",
     "model": "iPhone 13 Pro 512 GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/221197188.jpg",
-    "screenDiagonal": "6.1",
-    "screenRefreshRate": "120",
-    "memory": "512",
-    "ram": "6",
-    "price": "56999"
+    "screenDiagonal": 6.1,
+    "screenRefreshRate": 120,
+    "memory": 512,
+    "ram": 6,
+    "price": 56999
   },
 
   {
     "brand": "Apple",
     "model": "iPhone 13 Pro 256 GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/221197188.jpg",
-    "screenDiagonal": "6.1",
-    "screenRefreshRate": "120",
-    "memory": "256",
-    "ram": "6",
-    "price": "48999"
+    "screenDiagonal": 6.1,
+    "screenRefreshRate": 120,
+    "memory": 256,
+    "ram": 6,
+    "price": 48999
   },
 
   {
     "brand": "Apple",
     "model": "iPhone 13 Pro 128 GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/221197188.jpg",
-    "screenDiagonal": "6.1",
-    "screenRefreshRate": "120",
-    "memory": "128",
-    "ram": "6",
-    "price": "44999"
+    "screenDiagonal": 6.1,
+    "screenRefreshRate": 120,
+    "memory": 128,
+    "ram": 6,
+    "price": 44999
   },
 
   {
     "brand": "Apple",
     "model": "iPhone 13 512 GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/221212830.jpg",
-    "screenDiagonal": "6.1",
-    "screenRefreshRate": "60",
-    "memory": "512",
-    "ram": "4",
-    "price": "47999"
+    "screenDiagonal": 6.1,
+    "screenRefreshRate": 60,
+    "memory": 512,
+    "ram": 4,
+    "price": 47999
   },
 
   {
     "brand": "Apple",
     "model": "iPhone 13 256 GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/221212830.jpg",
-    "screenDiagonal": "6.1",
-    "screenRefreshRate": "60",
-    "memory": "256",
-    "ram": "4",
-    "price": "39999"
+    "screenDiagonal": 6.1,
+    "screenRefreshRate": 60,
+    "memory": 256,
+    "ram": 4,
+    "price": 39999
   },
 
   {
     "brand": "Apple",
     "model": "iPhone 13 128 GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/221212830.jpg",
-    "screenDiagonal": "6.1",
-    "screenRefreshRate": "60",
-    "memory": "128",
-    "ram": "4",
-    "price": "35999"
+    "screenDiagonal": 6.1,
+    "screenRefreshRate": 60,
+    "memory": 128,
+    "ram": 4,
+    "price": 35999
   },
 
   {
     "brand": "Google",
     "model": "Pixel 6 Pro 12/256GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/230806923.png",
-    "screenDiagonal": "6.7",
-    "screenRefreshRate": "120",
-    "memory": "256",
-    "ram": "12",
-    "price": "54340"
+    "screenDiagonal": 6.7,
+    "screenRefreshRate": 120,
+    "memory": 256,
+    "ram": 12,
+    "price": 54340
   },
 
   {
     "brand": "Google",
     "model": "Pixel 6 Pro 12/128GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/230806923.png",
-    "screenDiagonal": "6.7",
-    "screenRefreshRate": "120",
-    "memory": "128",
-    "ram": "12",
-    "price": "47234"
+    "screenDiagonal": 6.7,
+    "screenRefreshRate": 120,
+    "memory": 128,
+    "ram": 12,
+    "price": 47234
   },
 
   {
     "brand": "Google",
     "model": "Pixel 6 8/128GB",
     "imgUrl": "https://content1.rozetka.com.ua/goods/images/big/230504136.jpg",
-    "screenDiagonal": "6",
-    "screenRefreshRate": "90",
-    "memory": "128",
-    "ram": "8",
-    "price": "32762"
+    "screenDiagonal": 6,
+    "screenRefreshRate": 90,
+    "memory": 128,
+    "ram": 8,
+    "price": 32762
   },
 
   {
     "brand": "Google",
     "model": "Pixel 6a 6/128GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/278097910.png",
-    "screenDiagonal": "6",
-    "screenRefreshRate": "90",
-    "memory": "128",
-    "ram": "6",
-    "price": "28500"
+    "screenDiagonal": 6,
+    "screenRefreshRate": 90,
+    "memory": 128,
+    "ram": 6,
+    "price": 28500
   },
 
   {
     "brand": "Samsung",
     "model": "Galaxy Fold 4 12/512GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/279918555.jpg",
-    "screenDiagonal": "7.6",
-    "screenRefreshRate": "120",
-    "memory": "512",
-    "ram": "12",
-    "price": "79999"
+    "screenDiagonal": 7.6,
+    "screenRefreshRate": 120,
+    "memory": 512,
+    "ram": 12,
+    "price": 79999
   },
 
   {
     "brand": "Samsung",
     "model": "Galaxy S22 Ultra 12/512 GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/253281773.jpg",
-    "screenDiagonal": "6.8",
-    "screenRefreshRate": "120",
-    "memory": "512",
-    "ram": "12",
-    "price": "61099"
+    "screenDiagonal": 6.8,
+    "screenRefreshRate": 120,
+    "memory": 512,
+    "ram": 12,
+    "price": 61099
   },
 
   {
     "brand": "Samsung",
     "model": "Galaxy S22 Ultra 12/256 GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/253281773.jpg",
-    "screenDiagonal": "6.8",
-    "screenRefreshRate": "120",
-    "memory": "256",
-    "ram": "12",
-    "price": "55899"
+    "screenDiagonal": 6.8,
+    "screenRefreshRate": 120,
+    "memory": 256,
+    "ram": 12,
+    "price": 55899
   },
 
   {
     "brand": "Samsung",
     "model": "Galaxy S22 Ultra 12/128 GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/253281773.jpg",
-    "screenDiagonal": "6.8",
-    "screenRefreshRate": "120",
-    "memory": "128",
-    "ram": "12",
-    "price": "52999"
+    "screenDiagonal": 6.8,
+    "screenRefreshRate": 120,
+    "memory": 128,
+    "ram": 12,
+    "price": 52999
   },
 
   {
     "brand": "Xiaomi",
     "model": "12 Pro 12/256GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/281781223.jpg",
-    "screenDiagonal": "6.7",
-    "screenRefreshRate": "120",
-    "memory": "256",
-    "ram": "12",
-    "price": "43106"
+    "screenDiagonal": 6.7,
+    "screenRefreshRate": 120,
+    "memory": 256,
+    "ram": 12,
+    "price": 43106
   },
 
   {
     "brand": "Xiaomi",
     "model": "12 Pro 8/256GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/281781223.jpg",
-    "screenDiagonal": "6.7",
-    "screenRefreshRate": "120",
-    "memory": "256",
-    "ram": "8",
-    "price": "40294"
+    "screenDiagonal": 6.7,
+    "screenRefreshRate": 120,
+    "memory": 256,
+    "ram": 8,
+    "price": 40294
   },
 
   {
     "brand": "Xiaomi",
     "model": "12 Pro 8/128GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/281781218.jpg",
-    "screenDiagonal": "6.7",
-    "screenRefreshRate": "120",
-    "memory": "128",
-    "ram": "8",
-    "price": "28816"
+    "screenDiagonal": 6.7,
+    "screenRefreshRate": 120,
+    "memory": 128,
+    "ram": 8,
+    "price": 28816
   },
 
   {
     "brand": "Xiaomi",
     "model": "Mi11 Ultra 12/512GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/281781214.jpg",
-    "screenDiagonal": "6.8",
-    "screenRefreshRate": "120",
-    "memory": "512",
-    "ram": "12",
-    "price": "42637"
+    "screenDiagonal": 6.8,
+    "screenRefreshRate": 120,
+    "memory": 512,
+    "ram": 12,
+    "price": 42637
   },
 
   {
     "brand": "Xiaomi",
     "model": "12X 8/128GB",
     "imgUrl": "https://content1.rozetka.com.ua/goods/images/big/282464469.jpg",
-    "screenDiagonal": "6.3",
-    "screenRefreshRate": "120",
-    "memory": "128",
-    "ram": "8",
-    "price": "42637"
+    "screenDiagonal": 6.3,
+    "screenRefreshRate": 120,
+    "memory": 128,
+    "ram": 8,
+    "price": 42637
   },
 
   {
     "brand": "Xiaomi",
     "model": "12 Lite 8/256GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/282461841.jpg",
-    "screenDiagonal": "6.5",
-    "screenRefreshRate": "120",
-    "memory": "256",
-    "ram": "8",
-    "price": "22628"
+    "screenDiagonal": 6.5,
+    "screenRefreshRate": 120,
+    "memory": 256,
+    "ram": 8,
+    "price": 22628
   }
 ]
