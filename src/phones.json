@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "brand": "Apple",
     "model": "iPhone 13 Pro Max 1 TB",
     "imgUrl": "https://content1.rozetka.com.ua/goods/images/big/221250972.jpg",
@@ -11,6 +12,7 @@
   },
 
   {
+    "id": "2",
     "brand": "Apple",
     "model": "iPhone 13 Pro Max 512 GB",
     "imgUrl": "https://content1.rozetka.com.ua/goods/images/big/221250972.jpg",
@@ -22,6 +24,7 @@
   },
 
   {
+    "id": "3",
     "brand": "Apple",
     "model": "iPhone 13 Pro Max 256 GB",
     "imgUrl": "https://content1.rozetka.com.ua/goods/images/big/221250972.jpg",
@@ -33,6 +36,7 @@
   },
 
   {
+    "id": "4",
     "brand": "Apple",
     "model": "iPhone 13 Pro Max 128 GB",
     "imgUrl": "https://content1.rozetka.com.ua/goods/images/big/221250972.jpg",
@@ -44,6 +48,7 @@
   },
 
   {
+    "id": "5",
     "brand": "Apple",
     "model": "iPhone 13 Pro 1 TB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/221197188.jpg",
@@ -55,6 +60,7 @@
   },
 
   {
+    "id": "6",
     "brand": "Apple",
     "model": "iPhone 13 Pro 512 GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/221197188.jpg",
@@ -66,6 +72,7 @@
   },
 
   {
+    "id": "7",
     "brand": "Apple",
     "model": "iPhone 13 Pro 256 GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/221197188.jpg",
@@ -77,6 +84,7 @@
   },
 
   {
+    "id": "8",
     "brand": "Apple",
     "model": "iPhone 13 Pro 128 GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/221197188.jpg",
@@ -88,6 +96,7 @@
   },
 
   {
+    "id": "9",
     "brand": "Apple",
     "model": "iPhone 13 512 GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/221212830.jpg",
@@ -99,6 +108,7 @@
   },
 
   {
+    "id": "10",
     "brand": "Apple",
     "model": "iPhone 13 256 GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/221212830.jpg",
@@ -110,6 +120,7 @@
   },
 
   {
+    "id": "11",
     "brand": "Apple",
     "model": "iPhone 13 128 GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/221212830.jpg",
@@ -121,6 +132,7 @@
   },
 
   {
+    "id": "12",
     "brand": "Google",
     "model": "Pixel 6 Pro 12/256GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/230806923.png",
@@ -132,6 +144,7 @@
   },
 
   {
+    "id": "13",
     "brand": "Google",
     "model": "Pixel 6 Pro 12/128GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/230806923.png",
@@ -143,6 +156,7 @@
   },
 
   {
+    "id": "14",
     "brand": "Google",
     "model": "Pixel 6 8/128GB",
     "imgUrl": "https://content1.rozetka.com.ua/goods/images/big/230504136.jpg",
@@ -154,6 +168,7 @@
   },
 
   {
+    "id": "15",
     "brand": "Google",
     "model": "Pixel 6a 6/128GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/278097910.png",
@@ -165,6 +180,7 @@
   },
 
   {
+    "id": "16",
     "brand": "Samsung",
     "model": "Galaxy Fold 4 12/512GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/279918555.jpg",
@@ -176,6 +192,7 @@
   },
 
   {
+    "id": "17",
     "brand": "Samsung",
     "model": "Galaxy S22 Ultra 12/512 GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/253281773.jpg",
@@ -187,6 +204,7 @@
   },
 
   {
+    "id": "18",
     "brand": "Samsung",
     "model": "Galaxy S22 Ultra 12/256 GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/253281773.jpg",
@@ -198,6 +216,7 @@
   },
 
   {
+    "id": "19",
     "brand": "Samsung",
     "model": "Galaxy S22 Ultra 12/128 GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/253281773.jpg",
@@ -209,6 +228,7 @@
   },
 
   {
+    "id": "20",
     "brand": "Xiaomi",
     "model": "12 Pro 12/256GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/281781223.jpg",
@@ -220,6 +240,7 @@
   },
 
   {
+    "id": "21",
     "brand": "Xiaomi",
     "model": "12 Pro 8/256GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/281781223.jpg",
@@ -231,6 +252,7 @@
   },
 
   {
+    "id": "22",
     "brand": "Xiaomi",
     "model": "12 Pro 8/128GB",
     "imgUrl": "https://content2.rozetka.com.ua/goods/images/big/281781218.jpg",
@@ -242,6 +264,7 @@
   },
 
   {
+    "id": "23",
     "brand": "Xiaomi",
     "model": "Mi11 Ultra 12/512GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/281781214.jpg",
@@ -253,6 +276,7 @@
   },
 
   {
+    "id": "24",
     "brand": "Xiaomi",
     "model": "12X 8/128GB",
     "imgUrl": "https://content1.rozetka.com.ua/goods/images/big/282464469.jpg",
@@ -264,6 +288,7 @@
   },
 
   {
+    "id": "25",
     "brand": "Xiaomi",
     "model": "12 Lite 8/256GB",
     "imgUrl": "https://content.rozetka.com.ua/goods/images/big/282461841.jpg",

@@ -1,5 +1,5 @@
 import { configureStore } from '@reduxjs/toolkit';
-import phonesReducer from '../features/counter/phonesSlice';
+import phonesReducer from '../features/phones/phonesSlice';
 
 export const store = configureStore({
   reducer: {

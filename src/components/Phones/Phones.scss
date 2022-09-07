@@ -1,0 +1,12 @@
+.Phones {
+  padding: 30px 10px;
+
+  &__container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__no-phones {
+    margin-right: 250px;
+  }
+}

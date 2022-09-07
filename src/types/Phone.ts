@@ -1,4 +1,5 @@
 export interface Phone {
+  id: string;
   brand: string;
   model: string;
   imgUrl: string;

@@ -13,7 +13,10 @@ module.exports = {
       jsx: true,
     },
   },
-  rules: {},
+  rules: {
+    'react/display-name': 'off',
+    'react/prop-types': 'off',
+  },
   settings: {
     react: {
       version: 'detect',

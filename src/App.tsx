@@ -1,17 +1,16 @@
 import React from 'react';
 import './App.scss';
-import { useSelector } from 'react-redux';
-import { RootState } from './app/store';
+import { Route, Routes } from 'react-router-dom';
+import { Phones } from './components/Phones';
 
-function App() {
-  const phones = useSelector((state: RootState) => state.phones.phones);
+const App: React.FC = () => {
   return (
-    <div>
-      <div>
-        <span>{phones.length}</span>
-      </div>
+    <div className="App">
+      <Routes>
+        <Route path="/" element={<Phones />} />
+      </Routes>
     </div>
   );
-}
+};
 
 export default App;
