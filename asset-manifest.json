@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mobile-phones-cards/static/css/main.141f1d69.css",
+    "main.js": "/mobile-phones-cards/static/js/main.1b31480e.js",
+    "index.html": "/mobile-phones-cards/index.html",
+    "main.141f1d69.css.map": "/mobile-phones-cards/static/css/main.141f1d69.css.map",
+    "main.1b31480e.js.map": "/mobile-phones-cards/static/js/main.1b31480e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.141f1d69.css",
+    "static/js/main.1b31480e.js"
+  ]
+}
