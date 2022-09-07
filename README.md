@@ -1,6 +1,12 @@
-# Currency Converter
+# Mobile phones cards
 
 ### Here is the [DEMO LINK](https://vsupruniuk.github.io/mobile-phones-cards/)
+
+### To run project locally:
+- Fork a repo
+- Clone a project
+- Open project, then open a terminal and type a `npm start`
+- Open `http://localhost:3000/` in your browser
 
 ### Technologies used:
 - React 18.2.0

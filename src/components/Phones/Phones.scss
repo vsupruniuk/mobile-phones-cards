@@ -5,8 +5,9 @@
     display: flex;
     justify-content: space-between;
   }
+}
 
-  &__no-phones {
-    margin-right: 250px;
-  }
+.alert {
+  align-self: start;
+  transform: translateX(-500px);
 }

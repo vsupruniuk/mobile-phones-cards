@@ -25,7 +25,25 @@ export const PhoneCard: React.FC<Props> = React.memo(({ phone }) => {
         src={phone.imgUrl}
         alt={`${phone.brand} ${phone.model}`}
       />
-      <h2 className="phone-card__title">{`${phone.brand} ${phone.model}`}</h2>
+      <h4 className="phone-card__title">{`${phone.brand} ${phone.model}`}</h4>
+
+      <div className="phone-card__info">
+        <span className="phone-card__info-details">
+          RAM size: {`${phone.ram} GB`}
+        </span>
+
+        <span className="phone-card__info-details">
+          Memory size: {phone.memory === 1024 ? '1 TB' : `${phone.memory} GB`}
+        </span>
+
+        <span className="phone-card__info-details">
+          Screen refresh rate: {phone.screenRefreshRate}
+        </span>
+
+        <span className="phone-card__info-details">
+          Screen diagonal: {`${phone.screenDiagonal} "`}
+        </span>
+      </div>
 
       <div className="phone-card__buy-info">
         <span className="phone-card__price">

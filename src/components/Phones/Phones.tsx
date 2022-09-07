@@ -45,9 +45,9 @@ export const Phones: React.FC = React.memo(() => {
 
         {filteredPhones.length > 0 && <PhonesList phones={filteredPhones} />}
         {!filteredPhones.length && (
-          <h1 className="Phones__no-phones">
+          <div className="alert alert-danger" role="alert">
             There are no phones suitable for the applied filters
-          </h1>
+          </div>
         )}
       </div>
     </div>

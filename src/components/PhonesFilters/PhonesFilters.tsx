@@ -145,7 +145,7 @@ export const PhonesFilters: React.FC = React.memo(() => {
               checked={memory === `${value}`}
               onChange={(event) => handleMemoryChange(event.target.value)}
             />
-            <span>{value === 1024 ? `${1} TB` : `${value} GB`}</span>
+            <span>{value === 1024 ? ` ${1} TB` : ` ${value} GB`}</span>
           </label>
         ))}
       </div>
@@ -160,7 +160,7 @@ export const PhonesFilters: React.FC = React.memo(() => {
               checked={refreshRate === `${value}`}
               onChange={(event) => handleRefreshRateChange(event.target.value)}
             />
-            <span>{value}</span>
+            <span>{` ${value}`}</span>
           </label>
         ))}
       </div>
@@ -179,7 +179,7 @@ export const PhonesFilters: React.FC = React.memo(() => {
                 handleScreenDiagonalChange(event.target.value)
               }
             />
-            <span>{`${value} "`}</span>
+            <span>{` ${value} "`}</span>
           </label>
         ))}
       </div>
